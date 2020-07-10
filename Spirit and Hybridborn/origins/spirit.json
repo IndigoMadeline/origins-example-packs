@@ -4,10 +4,10 @@
 		"origins:lava_strider",
 		"origins:nether_spawn",
 		"origins:hunger_over_time"
-    "origins:burn_in_daylight"
-    "origins:origins:fragile"
+		"origins:burn_in_daylight"
+		"origins:origins:fragile"
 	],
 	"icon": "minecraft:soul_lantern",
-	"order": 10,
+	"order": 4,
 	"impact": 3
 }
