@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"origins:fire_immunity",
+		"origins:carnivore"
+		"origins:nether_spawn"
+    "origins:scare_creepers"
+    "origins:water_vulnerability"
+    "origins:nine_lives"
+	],
+	"icon": "minecraft:slimeball",
+	"order": 4,
+	"impact": 3
+}
